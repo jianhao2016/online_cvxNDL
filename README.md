@@ -4,7 +4,7 @@ This is the github repository of the Online Convex Network Dictionary Leanring a
 
 ## To run the optimization algorithm 
 ```
-source run.sh
+source run_ocmf_script.sh
 ```
 
 ## To view the results in Jupyter notebook
